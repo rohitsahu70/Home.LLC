@@ -1,4 +1,6 @@
-some of the factors that could influence residential home prices across the United States over the next 10 years, organized in a MECE framework:
+Question:- Describe and explain *all* the factors that could influence residential home prices across the United States over the next 10 years
+
+Answer:- some of the factors that could influence residential home prices across the United States over the next 10 years, organized in a MECE framework:
 
 Economic factors : Interest rates: Lower interest rates make it more affordable for people to buy homes, which can lead to higher prices.
 Economic growth: A strong economy can lead to more jobs and higher incomes, which can also lead to higher home prices.
